@@ -1,0 +1,2 @@
+### This assignment was completed as part of the CWR Data Science Bootcamp.
+To run this assignment, simply clone the repository to your computer and open in browser from index.html. This is a serverless assignment.
